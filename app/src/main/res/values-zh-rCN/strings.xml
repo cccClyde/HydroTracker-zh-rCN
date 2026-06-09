@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HydroTracker</string>
+    
+    <!-- Widget Strings -->
+    <string name="widget_progress_description">展示你的今日饮水进度</string>
+    <string name="widget_progress_title">HydroTracker 进度</string>
+    <string name="widget_tap_to_open">点击打开 HydroTracker</string>
+    <string name="widget_updated_at">更新于 %1$s</string>
+    <string name="widget_loading">加载中……</string>
+</resources>
